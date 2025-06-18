@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://ophim17.cc/icon_ophim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "OPhimProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimmoi.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nhathuy009/nsfw",
