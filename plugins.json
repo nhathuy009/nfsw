@@ -4,6 +4,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nhathuy009/nsfw",
         "status": 1,
+        "language": "vi",
         "tvTypes": [
             "NSFW"
         ],
