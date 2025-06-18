@@ -2,7 +2,7 @@
     "name": "Nhathuy009",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/nhathuy009/nfsw/blob/587750cd1bca1ceca8d7ad358e27c180dd0835f9/plugins.json"
+      "https://raw.githubusercontent.com/nhathuy009/nfsw/refs/heads/main/plugins.json"
     ]
 }
 
